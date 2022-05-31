@@ -1,0 +1,28 @@
+(1)(pc)Occupied
+(5)(pc)Occupied
+Thread1 :1 Performs Online activity
+Thread2 :5 Performs Online activity
+*******************************************
+(1)(pc)Logged out
+*******************************************
+(4)(tv)arrived and waiting
+(4)(tv)Occupied
+Thread1 :4 Performs Online activity
+*******************************************
+(5)(pc)Logged out
+*******************************************
+(3)(mobile)arrived and waiting
+(3)(mobile)Occupied
+Thread2 :3 Performs Online activity
+*******************************************
+(3)(mobile)Logged out
+*******************************************
+(2)(pc)arrived and waiting
+(2)(pc)Occupied
+Thread2 :2 Performs Online activity
+*******************************************
+(4)(tv)Logged out
+*******************************************
+*******************************************
+(2)(pc)Logged out
+*******************************************
